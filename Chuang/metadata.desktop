@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment=Chuang for Plasma KDE
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Chuang
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=saeziae
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=WTFPL
+X-KDE-PluginInfo-Name=Chuang
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-Plasma-MainScript=defaults
